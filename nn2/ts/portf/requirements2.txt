@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+matplotlib
+yfinance
+requests 
+scikit-learn 
+PyPortfolioOpt 
+torch 
+fastai 
+tensorboard
+
